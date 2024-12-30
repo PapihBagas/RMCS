@@ -1,6 +1,6 @@
 # Traveloka Customer Review Sentiment Analysis Dataset
 
-This repository dataset contains [1200 tweets](https://github.com/rhiosutoyo/Traveloka-Customer-Review-Sentiment-Analysis-Dataset/blob/main/data_traveloka_fix.csv) that are related to our paper [Sentiment analysis for customer review: Case study of Traveloka - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050922022621). It is labeled into two classes: negative and positive.
+This repository dataset contains [1200 tweets](https://github.com/rhiosutoyo/Traveloka-Customer-Review-Sentiment-Analysis-Dataset/blob/main/data_traveloka_fix.csv) that are related to our paper [Sentiment analysis for customer review: Case study of Traveloka](https://www.sciencedirect.com/science/article/pii/S1877050922022621). It is labeled into two classes: negative and positive.
 
 ## Data Formats
 The file starts with a header, and each following line consists of a tweet followed by its respective label separated by a pipe ( | ).
